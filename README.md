@@ -1,2 +1,2 @@
-# Study_C-
+# Study_CPP
 Study C++
